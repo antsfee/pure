@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    'alown':true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
